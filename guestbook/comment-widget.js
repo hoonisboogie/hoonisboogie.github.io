@@ -10,24 +10,24 @@
     (But change the script src URL to wherever you have this widget stored on your site!)
 
         <div id="c_widget"></div>
-        <script src="comment-widget.js"></script>
+        <script src="https://hoonisboogie.github.io/guestbook/comment-widget.js"></script>
 
     Have fun! Bug reports are encouraged if you happen to run into any issues.
     - Ayano (https://virtualobserver.moe/)
 */
 
 // The values in this section are REQUIRED for the widget to work! Keep them in quotes!
-const s_stylePath = 'PATH HERE';
-const s_formId = 'ID HERE';
-const s_nameId = 'ID HERE';
-const s_websiteId = 'ID HERE';
-const s_textId = 'ID HERE';
-const s_pageId = 'ID HERE';
-const s_replyId = 'ID HERE';
-const s_sheetId = 'ID HERE';
+const s_stylePath = 'https://hoonisboogie.github.io/guestbook/comment-widget-dark.css';
+const s_formId = '1FAIpQLSdZn4jhJN3L75dzSkQgqjLpzLI4H7FLlQU4SVGh09Fv1_OjVg';
+const s_nameId = '332805603';
+const s_websiteId = '1819941444';
+const s_textId = '45678233';
+const s_pageId = '983803710';
+const s_replyId = '366464188';
+const s_sheetId = '1UKyNOyEHVTESTzIN9zjx5wzjbPCFXVxIVqYinAgb5Zw';
 
 // The values below are necessary for accurate timestamps, I've filled it in with EST as an example
-const s_timezone = -5; // Your personal timezone (Example: UTC-5:00 is -5 here, UTC+10:30 would be 10.5)
+const s_timezone = -7; // Your personal timezone (Example: UTC-5:00 is -5 here, UTC+10:30 would be 10.5)
 const s_daylightSavings = true; // If your personal timezone uses DST, set this to true
 // For the dates DST start and end where you live: [Month, Weekday, which number of that weekday, hour (24 hour time)]
 const s_dstStart = ['March', 'Sunday', 2, 2]; // Example shown is the second Sunday of March at 2:00 am
