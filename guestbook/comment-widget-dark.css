@@ -159,7 +159,7 @@
 .c-reply {
     display: block;
     width: 90%;
-    margin-bottom: 10px;
+    margin-bottom: 1em;
     margin-left: auto;
     margin-right: 0;
     padding: 10px;
@@ -185,8 +185,7 @@
 }
 .c-site {
     text-transform: uppercase;
-    text-decoration: none;
-    color: white;
+    color: white!important;
 }
 .c-site:hover {color: black;}
 .c-timestamp {
