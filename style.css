@@ -243,7 +243,7 @@ hr {
     margin: 4em auto 0.2em auto;
 }
 #guestbookWin .window-body {
-    height: 54em;
+    height: auto;
 }
 #guestbookWin .inner {
     height: 52.5em;

@@ -17,7 +17,7 @@
 */
 
 // The values in this section are REQUIRED for the widget to work! Keep them in quotes!
-const s_stylePath = 'comment-widget-dark.css';
+const s_stylePath = 'https://hoonisboogie.github.io/guestbook/comment-widget-dark.css';
 const s_formId = '1FAIpQLSdZn4jhJN3L75dzSkQgqjLpzLI4H7FLlQU4SVGh09Fv1_OjVg';
 const s_nameId = '332805603';
 const s_websiteId = '1819941444';
