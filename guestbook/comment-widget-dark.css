@@ -148,8 +148,9 @@
 .c-comment {
     margin-bottom: 15px;
     padding: 10px;
-    border: 2px solid black;
+    border: 2px dotted black;
     background-color: #FE2A89; 
+    border-radius: 1em;
 }
 .c-reply {
     display: block;
@@ -176,11 +177,12 @@
     padding: 0;
     text-transform: uppercase;
     font-weight: bold;
+    color: white;
 }
 .c-site {
     text-transform: uppercase;
     text-decoration: none;
-    color: #FE2A89;
+    color: white;
 }
 .c-site:hover {color: black;}
 .c-timestamp {
