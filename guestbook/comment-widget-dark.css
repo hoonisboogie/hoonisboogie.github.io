@@ -122,9 +122,13 @@
 }
 .c-input {
     padding: 4px;
-    color: white;
+    color: black;
     border: 1px solid #FE2A89;
 	outline: none;
+    border-radius: 1em;
+}
+.c-nameInput {
+    border: 1px solid #FE2A89;
 }
 .c-input:focus {border: 1px solid #FE2A89;}
 
