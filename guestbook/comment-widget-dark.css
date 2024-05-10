@@ -163,14 +163,14 @@
 .c-reply {
     display: block;
     width: 90%;
-    margin-bottom: 2em;
+    margin-bottom: 0.5em;
     margin-left: auto;
     margin-right: 0;
     padding: 10px;
     border: 2px solid black;
     background-color: #FE2A89; 
 }
-.c-reply:last-child {margin-bottom: 0;}
+.c-reply:last-child {margin-bottom: 1em;}
 .c-replyContainer {
     margin: -10px;
     margin-top: 10px;
