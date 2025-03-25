@@ -249,3 +249,12 @@ hr {
     height: 52.5em;
     margin: 0.75em;
 }
+#note {
+    display: block;
+    margin: 0.7em auto 0;
+    width: 85%;
+    font-family: bitc;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: italic;
+}
